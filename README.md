@@ -5,6 +5,7 @@ Tema: "Seu cliente almeja uma plataforma de streaming tão icônica quanto a Net
 
 <h2> Links do projeto: </h2>
 # Documento de Visão
+<br>
 https://docs.google.com/document/d/1JWcYZJCiPR6LrurTJa_3sX3CrGVYF_5l/edit?usp=sharing&ouid=116322195737038328487&rtpof=true&sd=true
 
 # Trello
